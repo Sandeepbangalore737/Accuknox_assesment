@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone the Repository
 
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Sandeepbangalore737/Accuknox_assesment
 
 cd your-project
 
